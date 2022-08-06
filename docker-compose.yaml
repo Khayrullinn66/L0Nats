@@ -6,9 +6,9 @@ services:
       - nuts
     image: postgres:latest
     environment:
-      POSTGRES_DB: "db_wb"
-      POSTGRES_USER: "user"
-      POSTGRES_PASSWORD: "userwb"
+      POSTGRES_DB: "postgres"
+      POSTGRES_USER: "khayrullin"
+      POSTGRES_PASSWORD: "7712"
     ports:
       - "5432:5432"
     volumes:
