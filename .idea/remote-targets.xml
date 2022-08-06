@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="Khayrullin@localhost:5432" type="ssh/sftp" uuid="4352b090-504a-42e7-9572-916c291948f9">
+        <config>
+          <option name="serverName" value="Khayrullin@localhost:5432 password" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
